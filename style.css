@@ -1,0 +1,55 @@
+h3:first-child {
+  color: pink;
+}
+
+#greycol {
+  color: gray;
+}
+
+div + div > p {
+  color: red;
+}
+
+div + h3 + p {
+  color: green;
+}
+
+.yellow {
+  color: yellow;
+}
+
+caption:hover {
+  color: red;
+}
+
+th:first-child {
+  color: pink;
+}
+
+th:last-child {
+  color: aquamarine;
+}
+
+th:nth-child(3) {
+  color: bisque;
+}
+
+.first {
+  color: green;
+}
+
+.second {
+  color: blue;
+}
+
+.third {
+  color: gray;
+}
+
+.fourth {
+  color: blueviolet;
+}
+
+.fifth {
+  color: orange;
+}
